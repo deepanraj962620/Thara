@@ -1,0 +1,17 @@
+{
+  "name": "buji-hdb-advanced",
+  "version": "3.4.0",
+  "private": true,
+  "description": "Professional Tamil birthday love surprise with Supabase support",
+  "main": "backend/server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "dev": "node --watch backend/server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
